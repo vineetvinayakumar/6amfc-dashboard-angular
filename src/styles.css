@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body{
+    background-color: #00FF87;
+    font-family: 'Montserrat', sans-serif;
+    background-position: right top;
+    background-image:url('assets/img/page-hero-primary.png');
+}

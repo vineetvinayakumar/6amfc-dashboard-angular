@@ -1,0 +1,62 @@
+
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url('../assets/img/loader.gif') center no-repeat #fff;
+}
+
+.navbar{
+  background-color: #38003c !important;
+}
+
+.nav{
+    background-color: #38003c !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #E90052;
+    color:#ffffff;
+}
+
+.navbar-brand{
+  color:#ffffff !important;
+}
+
+.nav-link{
+  color:#ffffff !important;
+  font-weight: 700;
+}
+
+.footer{
+  background-color: #38003c !important;
+  color:#ffffff !important;
+}
+
+.weekWinner{
+    color: #e90052;
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-top: .5em;
+}
+
+.comingSoon{
+    padding: 5em 3em;
+}
+
+.comingSoontxt{
+    font-size: 2.5em;
+    padding: .5em;
+    color: #00FF87;
+    font-weight: bolder;
+}
+
+.tab-pane{
+    margin-bottom: 2em;
+}
